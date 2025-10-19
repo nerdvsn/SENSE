@@ -12,7 +12,7 @@ except ImportError:
     print("Warnung: TkAgg-Backend nicht verfügbar. Bitte 'sudo apt install python3-tk' ausführen.")
 
 # === PFAD ZUR DATENDATEI ANPASSEN ===
-file_path = "Corridor2_3_sensor_1.pickle"  
+file_path = "..Outputs/Corridor2_3_sensor_1.pickle"  
 
 # === DEKLARATION DER BEZUGSAUFLÖSUNG FÜR DIE SKALIERUNG ===
 ORIGINAL_RGB_WIDTH = 640
