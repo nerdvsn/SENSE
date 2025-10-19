@@ -13,7 +13,7 @@ except ImportError:
 
 # === PFAD ZUR DATENDATEI ANPASSEN ===
 # !!! HIER den Pfad zur Output-Datei aus dem 'Outputs/' Ordner angeben !!!
-output_path = "Corridor3_5_sensor_4.pkl"  # Angenommener Pfad basierend auf Ihrem Output
+output_path = "FourUser_Dynamic_4_sensor_4.pkl"  # Angenommener Pfad basierend auf Ihrem Output
 
 # === DEKLARATION DER BEZUGSAUFLÖSUNG FÜR DIE SKALIERUNG ===
 ORIGINAL_BBOX_WIDTH = 640
