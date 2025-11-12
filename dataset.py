@@ -44,7 +44,7 @@ class Dataset():
 
 if __name__ == "__main__":
     datapaths = [
-        'Dataset/Hall_0_sensor_4.pickle', # Here comes the paths to your dataset files
+        'Dataset/Hall_0_sensor_4.pickle',
     ]
 
     dataset = Dataset(datapaths)
